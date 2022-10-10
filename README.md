@@ -1,7 +1,7 @@
 ### Olá, tudo certo?
 
 Estudanto Informática <br/>
-Preferencia pela parte de Back dos sites <br/>
+Preferencia pela parte de Back dos sites mas buscando conhecimento como fullstack<br/>
 achei legal e implementei na minha página ⇊⇊
 
 <div align="center">
